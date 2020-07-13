@@ -7,6 +7,16 @@ function whisper(string) {
 }
 
 function logShout(string){
+  console.log(shout);
+  
+}
+
+function logWhisper(string){
+  console.log(whisper);
+  
+}
+
+function sayHiToGrandma(string){
   
   
 }
